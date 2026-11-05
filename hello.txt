@@ -1,0 +1,2 @@
+Hello! this is my first git practical.
+I am learning git add and commit commands.
